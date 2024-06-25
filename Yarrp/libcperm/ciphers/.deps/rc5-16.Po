@@ -1,0 +1,4 @@
+libcperm/ciphers/rc5-16.o: libcperm/ciphers/rc5-16.c \
+ /usr/include/stdc-predef.h libcperm/ciphers/rc5-16.h
+/usr/include/stdc-predef.h:
+libcperm/ciphers/rc5-16.h:

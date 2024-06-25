@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhmaplib.a CMakeFiles/hmaplib.dir/blocklist.c.o CMakeFiles/hmaplib.dir/bloom.c.o CMakeFiles/hmaplib.dir/constraint.c.o CMakeFiles/hmaplib.dir/csv.c.o "CMakeFiles/hmaplib.dir/gmp-ext.c.o" CMakeFiles/hmaplib.dir/lockfd.c.o CMakeFiles/hmaplib.dir/logger.c.o CMakeFiles/hmaplib.dir/random.c.o "CMakeFiles/hmaplib.dir/rijndael-alg-fst.c.o" CMakeFiles/hmaplib.dir/util.c.o CMakeFiles/hmaplib.dir/halloc.c.o CMakeFiles/hmaplib.dir/tga.c.o
+/usr/bin/ranlib libhmaplib.a
